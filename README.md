@@ -1,7 +1,7 @@
 # Vacuum Cleaner Project
 This project is a simulation of a vacuum cleaner program built using Python. The program is designed to simulate a vacuum cleaner navigating a room and cleaning up dust and debris.
 
-## Features
+## Features 
 
 - The program can simulate a vacuum cleaner navigating a room.
 - The program can detect dust and debris on the floor and clean it up.
@@ -11,12 +11,14 @@ This project is a simulation of a vacuum cleaner program built using Python. The
 
 1. Clone this repository to your local machine:
 
-<img width="647" alt="Screenshot 2023-03-10 at 12 48 22 AM" src="https://user-images.githubusercontent.com/94341686/224178499-9f27c991-3216-44e9-bfaa-d33b69ec8b92.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  
+```
+git clone https://github.com/your-username/vacuum-cleaner.git
+```
 2. Run the vacuum_cleaner.py file by typing python vacuum_cleaner.py in the terminal:
 
-<img width="649" alt="Screenshot 2023-03-10 at 12 48 54 AM" src="https://user-images.githubusercontent.com/94341686/224178726-9f18a492-014a-4fa9-bdd3-05d6e9d43f78.png">
+```
+python vacuum_cleaner.py
+```
 
 3. The program will simulate a vacuum cleaner navigating a room and cleaning up dust and debris.
 
